@@ -10,5 +10,3 @@ Core logic for analyzing stock portfolios, designed to support multiple stock-qu
 ## Tech stack
 Java · REST · Jackson · Gradle · Design Patterns
 
-## Context
-Built as part of [Crio.Do](https://www.crio.do/)'s project-based curriculum (2022–23) — one of a series of backend projects; see the full portfolio at [github.com/OmKumarBhardwaj](https://github.com/OmKumarBhardwaj).
